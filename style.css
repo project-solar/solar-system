@@ -1534,12 +1534,10 @@ h1 {
 @media screen and (min-width: 500px) {
   #universe {
     font-size: 36%; } }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 900px) {
   #universe {
-    font-size: 44%; } }
-@media screen and (min-width: 1000px) {
-  #universe {
-    font-size: 73%; }
+    font-size: 85%; } }
+
 
   #navbar, #controls, #data {
     background: transparent; }
