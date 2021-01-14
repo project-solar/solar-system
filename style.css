@@ -1529,12 +1529,9 @@ h1 {
 @media screen and (min-width: 500px) {
   #universe {
     font-size: 36%; } }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 900px) {
   #universe {
-    font-size: 44%; } }
-@media screen and (min-width: 760px) {
-  #universe {
-    font-size: 58%; } }
+    font-size: 75%; } }
 
   #navbar, #controls, #data {
     background: transparent; }
