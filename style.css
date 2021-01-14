@@ -1540,9 +1540,6 @@ h1 {
 @media screen and (min-width: 760px) {
   #universe {
     font-size: 58%; } }
-@media screen and (min-width: 1000px) {
-  #universe {
-    font-size: 73%; }
 
   #navbar, #controls, #data {
     background: transparent; }
