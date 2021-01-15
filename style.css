@@ -1663,11 +1663,13 @@ h1 {
 .earth-img2 {
   width: 550px;
   height:400px;
+  margin-bottom: 10px;
 }
 
 .earth-img3 {
   width: 550px;
   height:300px;
+  margin-bottom: 50px;
   padding-left: 80px;
 }
 
@@ -1684,6 +1686,7 @@ h1 {
   margin-bottom: 5px;
   padding-left: 80px;
 }
+
 
 
 .next {
